@@ -1,3 +1,3 @@
 # Superkart-Analysis
-This is the detailed analysis and of different types of stores in USA. Using historical data we can figure out the locations which type of store has made the best revenue in particular area and which business model is successful if we want to open a new store in USA.
+This is the detailed analysis of different types of stores in USA. Using historical data we can figure out the locations which type of store has made the best revenue in particular area and which business model is successful if we want to open a new store in USA.<br>
 Performed detailed preprocessing and analysis on the dataset using Seaborn, Pandas and Matplotlib. Trained and tuned bagging and boosting models on the dataset using randomized search cv. Gave recommendations on the type of store that should open depending on location and other factors that can generate higher revenue
